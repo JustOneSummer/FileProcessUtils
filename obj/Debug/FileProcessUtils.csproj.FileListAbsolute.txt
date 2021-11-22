@@ -1,0 +1,11 @@
+C:\Users\xien\source\repos\FileProcessUtils\bin\Debug\FileProcessUtils.exe
+C:\Users\xien\source\repos\FileProcessUtils\bin\Debug\FileProcessUtils.pdb
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.csproj.AssemblyReference.cache
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.Form1.resources
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.Properties.Resources.resources
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.csproj.GenerateResource.cache
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.csproj.CoreCompileInputs.cache
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.exe
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.pdb
+C:\Users\xien\source\repos\FileProcessUtils\bin\Debug\FileProcessUtils.exe.config
+C:\Users\xien\source\repos\FileProcessUtils\obj\Debug\FileProcessUtils.FormFileNameRe.resources
